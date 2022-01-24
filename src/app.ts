@@ -1,5 +1,5 @@
-import express from "express";
-import router from "./routes";
+import express from "express"
+import router from "./routes"
 import { Server } from "socket.io"
 import http from "http"
 import cors from "cors"

@@ -4,11 +4,14 @@ Aplicação backend desenvolvida com TypeScript e NodeJS, Socket.io e Prisma e P
 
 Para executar a API m sua máquina execute os seguintes comandos:
 
-- Intalar dependencias:
-````
+-   Intalar dependencias:
+
+```
 $ yarn install
-````
-- Rodar localmente:
-````
+```
+
+-   Rodar localmente:
+
+```
 $ yarn dev
-````
+```
